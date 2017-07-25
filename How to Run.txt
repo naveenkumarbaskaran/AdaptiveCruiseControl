@@ -1,0 +1,8 @@
+how to run :
+ 1) Install Arduino IDE from given link
+     https://www.arduino.cc/en/Main/Software
+  2) Create a new project & Copy paste the code Given
+      (One at a time)
+   3) Compile it check for errors
+   4) Upload It to Arduino IC Using COM port 
+   5) Check the Serial WIndow for Output.
